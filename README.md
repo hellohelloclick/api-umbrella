@@ -37,4 +37,4 @@ Are you using API Umbrella? [Edit this file](https://github.com/NREL/api-umbrell
 
 ## License
 
-API Umbrella is open sourced under the [MIT license](https://github.com/NREL/api-umbrella/blob/master/LICENSE.txt).
+API Umbrella is open sourced under the [MIT license](https://github.com/NREL/api-umbrella/blob/master/LICENSE.txt)
